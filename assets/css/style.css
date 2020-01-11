@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.masthead {
+  height: 50rem;
+  min-height: 500px;
+  background-image: url('https://mdbootstrap.com/img/Photos/Others/img (40).jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 1;
+  }
+  
+  .services-icon {
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
